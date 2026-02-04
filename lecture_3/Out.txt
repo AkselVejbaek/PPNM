@@ -1,0 +1,10 @@
+Gamma(1) = 1
+Gamma(2) = 1
+Gamma(3) = 2
+Gamma(4) = 6
+Gamma(5) = 24
+Gamma(6) = 120
+Gamma(7) = 720
+Gamma(8) = 5040
+Gamma(9) = 40320
+Gamma(10) = 362880
