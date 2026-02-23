@@ -1,6 +1,5 @@
-SDK = /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk
 CXX = c++
-CXXFLAGS = -std=c++20 -isysroot $(SDK) -I$(SDK)/usr/include/c++/v1 -O2 -Wall -Wextra
+CXXFLAGS = -std=c++20
 
 Out.txt: main
 	./main > Out.txt
