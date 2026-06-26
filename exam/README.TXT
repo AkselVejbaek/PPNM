@@ -3,7 +3,7 @@ EXAMINATION PROJECT: BARE-BONES PARTICLE SWARM OPTIMIZATION (BBPSO)
 ========================================================================
 Author: [Aksel Vejbæk]
 Course: Practical Programming
-Date: June 25, 2026
+Date: June 29, 2026
 
 ------------------------------------------------------------------------
 1. PROJECT DESCRIPTION
